@@ -1,0 +1,6 @@
+{
+  "name": "YouthFlow - Planificator Seri de Tineret",
+  "description": "Platformă completă pentru planificarea programelor, gestiunea echipelor, desfășurător live, Q&A anonim și analitice post-eveniment pentru seri de tineret.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "YouthFlow - Planificator Seri de Tineret",
+  "short_name": "YouthFlow",
+  "description": "Platformă completă pentru planificarea programelor, gestiunea echipelor, desfășurător live, Q&A anonim și analitice post-eveniment pentru seri de tineret.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
